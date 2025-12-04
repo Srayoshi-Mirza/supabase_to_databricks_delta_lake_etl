@@ -107,8 +107,6 @@ Huge thanks to the Databricks Community member whose “big bill horror story”
 
 Feel free to fork, star, or reach out if you're building something similar. Always happy to help fellow Bangladeshi data enthusiasts!
 
-#DataEngineering #Databricks #PySpark #DeltaLake #MedallionArchitecture #ETL #FreeTierToProduction #DataScienceJourney #BangladeshDataCommunity
-
 ---
 Made with passion by **Srayoshi Bashed Mirza**  
 December 2025
