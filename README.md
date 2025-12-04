@@ -34,7 +34,7 @@ Running perfectly every single day since **September 2025** with zero failures.
 | Gold    | `weather_warehouse.gold_city_analytics`          | Latest city-level analytics               | Overwrite    | No          |
 
 ---
-![warehouse_in_databricks](/Data warehouse.PNG)
+![warehouse_in_databricks](https://raw.githubusercontent.com/Srayoshi-Mirza/supabase_to_databricks_delta_lake_etl/refs/heads/main/Data%20warehouse.PNG)
 
 ### Project Structure
 ```markdown
