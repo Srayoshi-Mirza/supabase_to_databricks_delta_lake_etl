@@ -35,7 +35,7 @@ Running perfectly every single day since **September 2025** with zero failures.
 
 ---
 ![warehouse_in_databricks](https://raw.githubusercontent.com/Srayoshi-Mirza/supabase_to_databricks_delta_lake_etl/refs/heads/main/Data%20warehouse.PNG)
-
+Fig 01: My Original Warehouse Created Tables
 ### Project Structure
 ```markdown
 weather_pipeline/
@@ -80,6 +80,8 @@ quick_setup_test()
 - Built and maintained entirely on **free tier**
 
 ---
+![Image that showing Running Jobs](https://raw.githubusercontent.com/Srayoshi-Mirza/supabase_to_databricks_delta_lake_etl/refs/heads/main/DAG.PNG)
+Fig 02: Running Jobs
 
 ### Limitations of Free Tier & My Next Learning Goals  
 *(Inspired by an amazing comment on my first post)*
