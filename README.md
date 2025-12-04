@@ -103,7 +103,7 @@ Huge thanks to the Databricks Community member whose “big bill horror story”
 
 ---
 
-**Never stop learning — especially in Data Engineering.**
+**Never stop learning, especially in Data Engineering.**
 
 Feel free to fork, star, or reach out if you're building something similar. Always happy to help fellow Bangladeshi data enthusiasts!
 
