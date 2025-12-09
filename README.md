@@ -34,7 +34,7 @@ Running perfectly every single day since **September 2025** with zero failures.
 | Gold    | `weather_warehouse.gold_city_analytics`          | Latest city-level analytics               | Overwrite    | No          |
 
 ---
-![warehouse_in_databricks](\images\Data warehouse.PNG)
+![warehouse_in_databricks](images/Data warehouse.PNG)
 Fig 01: My Original Warehouse Created Tables
 ### Project Structure
 ```markdown
@@ -80,7 +80,7 @@ quick_setup_test()
 - Built and maintained entirely on **free tier**
 
 ---
-![Image that showing Running Jobs](images\DAG.PNG)
+![Image that showing Running Jobs](images/DAG.PNG)
 Fig 02: Running Jobs
 
 ### Limitations of Free Tier & My Next Learning Goals  
