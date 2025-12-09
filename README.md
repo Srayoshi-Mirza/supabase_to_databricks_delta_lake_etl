@@ -35,7 +35,7 @@ Running perfectly every single day since **September 2025** with zero failures.
 
 ---
 
-![warehouse_in_databricks](images/Data warehouse.PNG)
+![warehouse_in_databricks](images/Data_warehouse.PNG)
 Fig 01: My Original Warehouse Created Tables
 
 ### Project Structure
